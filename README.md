@@ -1,6 +1,6 @@
 Projekt: Modulární Boulder Kostka
 Popis
-3D tištěný polyhedron s otvory v každé stěně pro zasouvání barevných lezeckých chytů. Mechanismus funguje na principu těsného lícování (offset 0,1 mm), takže chyty drží v jádru díky tření bez nutnosti lepidla.
+3D tištěný polyhedron s otvory v každé stěně pro zasouvání lezeckých chytů. Mechanismus funguje na principu těsného lícování (offset 0,1 mm), takže chyty drží v jádru díky tření bez nutnosti lepidla.
 
 To-do list
 [ ] Vybrat tvar jádra (mnohoúhelník)
