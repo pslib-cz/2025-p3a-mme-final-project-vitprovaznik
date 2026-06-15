@@ -6,7 +6,7 @@ Popis
 
 https://github.com/user-attachments/assets/8ae4629d-fa75-4dff-9225-343dc3b1a5c2
 
-
+![Modulární Boulder Kostka](IMG_1697.JPG)
 
 
 
